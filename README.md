@@ -6,7 +6,7 @@
 <p> <br> <p/>
 
 :technologist: Desenvolvedor Web - [Portfólio](https://albertomoiseisdev.com.br);<br> <br>
-:man_student: Estudante de Pós - Graduação em "Tecnologia Java" na Anhanguera Educacional;<br> <br>
+:man_student: Graduando em Bacharel em Ciência da Computação;<br> <br>
 :handshake: Gosto de trabalhar em equipe e ajudar à comunidade dev crescer - [Grupo - Facebook](https://www.facebook.com/groups/2249002278688933);<br>
 <br>
 
